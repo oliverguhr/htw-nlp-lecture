@@ -7,5 +7,5 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 ## Hello Python - a brief introduction
 
-(Slides)[https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/hellp-python.pdf]
-(Jupyter Notebook)[https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/Short%20Python%20Intro.ipynb]
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/hellp-python.pdf)
+[Jupyter Notebook](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/Short%20Python%20Intro.ipynb)
