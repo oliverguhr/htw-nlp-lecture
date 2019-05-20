@@ -85,7 +85,7 @@ for i, sentence in enumerate(sentences):
 
 print('Build model...')
 model = Sequential()
-model.add(CuDNNLSTM(512,input_shape=(maxlen, len(chars))))
+model.add(CuDNNLSTM(128,input_shape=(maxlen, len(chars))))
 model.add(Dense(len(chars), activation='softmax'))
 
 rms = RMSprop(lr=0.01) 
