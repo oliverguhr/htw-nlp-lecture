@@ -10,3 +10,12 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/hellp-python.pdf)
 
 [Jupyter Notebook](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/Short%20Python%20Intro.ipynb)
+
+
+## Introduction into RNNs
+
+Slides - tbd
+
+[Vanishing Gradients](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/vanishing-gradients.ipynb)
+
+[Shakespear RNN](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/shakespear-lstm.py)
