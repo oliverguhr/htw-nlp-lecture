@@ -122,7 +122,7 @@ def on_epoch_end(epoch, _):
         generated += sentence
         print('----- Generating with seed: "' + sentence + '"')
         sys.stdout.write(generated)
-        sys.stdout.write("----- result ------")
+        sys.stdout.write("\n----- result ------\n")
         for i in range(300):
             x_pred = np.zeros((1, maxlen, len(chars)))
             for t, char in enumerate(sentence):
