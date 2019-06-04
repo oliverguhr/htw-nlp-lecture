@@ -7,14 +7,14 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 ## Hello Python - a brief introduction
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/hellp-python.pdf)
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/0-hellp-python.pdf)
 
 [Jupyter Notebook](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/Short%20Python%20Intro.ipynb)
 
 
 ## Introduction into RNNs
 
-Slides - tbd
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/1-rnns.pdf)
 
 [Vanishing Gradients](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/vanishing-gradients.ipynb)
 
@@ -22,6 +22,12 @@ Slides - tbd
 
 ## Embeddings and text classification
 
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/2-embeddings.pdf)
+
 Code for a simple hate speech classificator, for german texts.
 
 [hate speech detector](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
+
+## Deep NLP 
+
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/3-deepmodels.pdf)
