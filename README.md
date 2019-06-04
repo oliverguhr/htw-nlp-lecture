@@ -19,3 +19,8 @@ Slides - tbd
 [Vanishing Gradients](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/vanishing-gradients.ipynb)
 
 [Shakespear RNN](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/shakespear-lstm.py)
+
+## Embeddings and text classification
+
+Code for a simple hate speech classificator, for german texts:
+[hate speech detector](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
