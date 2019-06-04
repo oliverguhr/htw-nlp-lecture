@@ -22,5 +22,6 @@ Slides - tbd
 
 ## Embeddings and text classification
 
-Code for a simple hate speech classificator, for german texts:
+Code for a simple hate speech classificator, for german texts.
+
 [hate speech detector](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
