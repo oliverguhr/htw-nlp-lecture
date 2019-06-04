@@ -28,6 +28,6 @@ Code for a simple hate speech classificator, for german texts.
 
 [hate speech detector](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
 
-## Deep NLP 
+## Deep NLP with Bert
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/3-deepmodels.pdf)
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/3-deep-models.pdf)
