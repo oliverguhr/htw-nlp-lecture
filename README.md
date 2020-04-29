@@ -9,8 +9,8 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/0-hellp-python.pdf)
 
-[Jupyter Notebook](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/hello-python/Short%20Python%20Intro.ipynb)
-
+[Hello Python Notebook](./hello-python/Short%20Python%20Intro.ipynb)
+[Hello PyTorch Notebook](./hello-python/Short%20Python%20Intro.ipynb)
 
 ## Introduction into RNNs
 
