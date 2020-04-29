@@ -25,9 +25,9 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/2-embeddings.pdf)
 
-Code for a simple hate speech classificator, for german texts.
+Code for a simple offensive language classificator, for german texts.
 
-[hate speech detector](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
+[Offensive language detection](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
 
 ## Deep NLP with Bert
 
