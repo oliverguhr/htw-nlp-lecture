@@ -19,7 +19,7 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 [Vanishing Gradients](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/vanishing-gradients.ipynb)
 
-[Shakespear RNN](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/shakespear-lstm.py)
+[Classifying Names with a Character-Level RNN](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/classifying%20names%20with%20rnns.ipynb)
 
 ## Embeddings and text classification
 
