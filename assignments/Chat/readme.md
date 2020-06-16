@@ -23,5 +23,5 @@ pip3 install -r requirements.txt
 
 * Next Steps:
     * Use the output from different layers
-    * Try other models like [this](https://huggingface.co/bert-base-german-dbmdz-uncased).
+    * Try other models like [this](https://huggingface.co/bert-base-german-dbmdz-uncased)
 
