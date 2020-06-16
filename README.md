@@ -17,18 +17,25 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/1-rnns.pdf)
 
-[Vanishing Gradients](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/vanishing-gradients.ipynb)
+[Vanishing Gradients Notebook](./assignments/RNNs/vanishing-gradients.ipynb)
 
-[Classifying Names with a Character-Level RNN](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/rnn/classifying%20names%20with%20rnns.ipynb)
 
-## Embeddings and text classification
+[Classifying Names with a Character-Level RNN](./assignments/RNNs/classifying%20names%20with%20rnns.ipynb)
+
+## Embeddings
 
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/2-embeddings.pdf)
 
 Code for a simple offensive language classificator, for german texts.
 
-[Offensive language detection](https://github.com/oliverguhr/htw-nlp-lecture/tree/master/hatespeech-detector)
+[Offensive Language Classification](./assignments/Embeddings/assginment_text_classifier.ipynb)
+
+
 
 ## Deep NLP with Bert
 
 [Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/3-deep-models.pdf)
+
+Create a simple chat using Bert and neural search
+
+[Chat With Bert](./assignments/Chat/readme.md)
