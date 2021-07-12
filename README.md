@@ -36,6 +36,6 @@ Code for a simple offensive language classificator, for german texts.
 
 [Slides](./slides/Deep%20NLP%203%20Transforners%20and%20Attention.pdf)
 
-Create a simple chat using Bert and neural search
+Implement an Neural search using Transformers.
 
 [Chat With Bert](./assignments/transformer/nlp_3_neural_search.ipynb)
