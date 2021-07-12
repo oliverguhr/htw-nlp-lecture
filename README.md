@@ -15,27 +15,27 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 ## Introduction into RNNs
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/1-rnns.pdf)
+[Slides](./slides/Deep%20NLP%201%20Recurrent%20Neural%20Networks.pdf)
 
 [Vanishing Gradients Notebook](./assignments/RNNs/vanishing-gradients.ipynb)
 
 
 [Classifying Names with a Character-Level RNN](./assignments/RNNs/classifying%20names%20with%20rnns.ipynb)
 
-## Embeddings
+## Word Vectors and Transfer Learning
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/2-embeddings.pdf)
+[Slides](./slides/Deep%20NLP%202%20Word%20Vectors%20and%20Transfer%20Learning.pdf)
 
 Code for a simple offensive language classificator, for german texts.
 
-[Offensive Language Classification](./assignments/Embeddings/assginment_text_classifier.ipynb)
+[Offensive Language Classification](./assignments/transformer/nlp_2_transformer_offensive_language_classification.ipynb)
 
 
 
-## Deep NLP with Bert
+## Transforners and Attention
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/3-deep-models.pdf)
+[Slides](./slides/Deep%20NLP%203%20Transforners%20and%20Attention.pdf)
 
 Create a simple chat using Bert and neural search
 
-[Chat With Bert](./assignments/Chat/readme.md)
+[Chat With Bert](./assignments/transformer/nlp_3_neural_search.ipynb)
