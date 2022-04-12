@@ -7,7 +7,7 @@ You can find the all the CNN examples in this [repository](https://github.com/tn
 
 ## Hello Python - a brief introduction
 
-[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/0-hellp-python.pdf)
+[Slides](https://github.com/oliverguhr/htw-nlp-lecture/blob/master/slides/Deep%20NLP%201%20Recurrent%20Neural%20Networks.pdf)
 
 [Hello Python Notebook](./hello-python/Short%20Python%20Intro.ipynb)
 
