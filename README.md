@@ -38,4 +38,4 @@ Code for a simple offensive language classificator, for german texts.
 
 Implement an Neural search using Transformers.
 
-[Chat With Bert](./assignments/transformer/nlp_3_neural_search.ipynb)
+[Neural Search](./assignments/transformer/nlp_3_neural_search.ipynb)
