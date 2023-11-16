@@ -1,6 +1,6 @@
-# HTW Dresden NLU Lecture
+# HTW Dresden NLP Lecture
 
-This repository contains NLU related material for the I833 Deep Learning course at University of Applied Sciences Dresden.
+This repository contains NLP related material for the I833 Deep Learning course at University of Applied Sciences Dresden.
 
 You can find the all the CNN examples in this [repository](https://github.com/tneumann/htw_cnn_lecture)
 
